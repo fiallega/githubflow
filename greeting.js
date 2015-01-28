@@ -11,5 +11,5 @@ var periodInDay = function(){
     var periods = ["morning", "afternoon", "night"];
     var time = new Date().getTime();
 
-    return periods[0];
+    return periods[1];
 };
