@@ -10,6 +10,7 @@ var greeting = function(greet, person){
 /**
   *
   * more comments
+  * and some more
   */
 var periodInDay = function(){
     var periods = ["morning", "afternoon", "night"];
