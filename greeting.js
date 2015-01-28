@@ -1,3 +1,3 @@
-var greeting = function(greet){
-    console.log("hello world" + greet);
+var greeting = function(greet, person){
+    console.log("hello " + person + " " + greet);
 }
