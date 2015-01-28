@@ -7,6 +7,10 @@ var greeting = function(greet, person){
     console.log("hello " + person + " " + greet);
 };
 
+/**
+  *
+  * more comments
+  */
 var periodInDay = function(){
     var periods = ["morning", "afternoon", "night"];
     var time = new Date().getTime();
