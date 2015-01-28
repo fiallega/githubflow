@@ -3,5 +3,5 @@ var greeting = function(greet, person){
 };
 
 var periodInDay = function(){
-    
-}
+    var periods = ["morning", "afternoon", "night"];
+};
